@@ -1,0 +1,25 @@
+# Struktura repozytorium Iskra
+
+```
+iskra/
+├── README.md
+├── LICENSE
+├── STRUCTURE.md
+├── docs/
+│   ├── zasady.md
+│   ├── koncepcja-wstepna.md
+│   ├── geometria-ramy.md
+│   ├── silnik-i-naped.md
+│   ├── safety-checklist.md
+│   └── bom-wstepny.md
+├── cad/
+│   └── (pliki STEP / FreeCAD / STL koncepcyjne)
+├── stl/
+│   └── (pliki do druku 3D)
+├── firmware/
+│   └── (konfiguracje VESC itp.)
+└── photos/
+    └── (zdjęcia prototypów)
+```
+
+Zasada: wszystko co da się otworzyć i zmodyfikować – w otwartych formatach.
